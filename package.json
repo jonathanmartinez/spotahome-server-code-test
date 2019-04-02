@@ -1,0 +1,11 @@
+{
+  "name": "Spotahome server code test",
+  "description": "Cors Proxy for Spotahome code test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.4.3",
+    "request": "~2.36.0",
+    "body-parser": "~1.5.2"
+  }
+}
